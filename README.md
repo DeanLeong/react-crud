@@ -55,7 +55,7 @@ const makeApiCall = async () => {
 Delete (delete):
 ```js
 const makeApiCall = async () => {
-  const req = await axios.delete(yourUrl, { data: 'you want to send to the server' })
+  const req = await axios.delete(yourUrl)
 }
 ```
 
