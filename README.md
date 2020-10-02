@@ -78,4 +78,4 @@ We are going to use Airtable to create an API for ourselves with just a few clic
 
 Let's create a React app to consume our Airtable data!
 
-[Solution Code](https://git.generalassemb.ly/aspittel/react-blog-crud)
+[Solution Code]() will be provided after the class is finished.
