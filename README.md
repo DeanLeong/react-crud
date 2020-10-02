@@ -10,13 +10,13 @@
 
 HTTP stands for **Hyper-Text Transfer Protocol**. If the client and server communicate, then HTTP is the structure of that communication. HTTP dictates how the client requests information from a server and how the server responds. Each message is similarly formatted - so you can think of them as like electronic telegrams.
 
-Requests always have these three parts:
+Requests consist of these three parts:
 
 1. Request line (including the URL and the HTTP Method)
 1. Request header (additional information about the request and what we expect in the response)
-1.Body message (optional - things like form data)
+1. Body message (optional - things like form data)
 
-Responses in turn always have these three parts:
+Responses in turn consist of these three parts:
 
 1. Status (a status code indicating how the request was handled)
 1. Response header (additional information about the response)
